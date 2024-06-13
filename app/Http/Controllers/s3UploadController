@@ -1,0 +1,29 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Storage;
+
+class S3UploadController extends Controller
+{
+    public function upload(Request $request)
+    {
+        // Validate the incoming request
+        $request->validate([
+            'file' => 'required|file',
+        ]);
+
+        // Store the file in S3 in a specific directory
+        $path = Storage::disk('s3')->put('upload', $request->file('file'));
+
+        // Get the S3 URL
+        $url = Storage::disk('s3')->url($path);
+
+        return response()->json([
+            'path' => $path,
+            'url' => $url,
+            'msg' => 'success'
+        ]);
+    }
+}

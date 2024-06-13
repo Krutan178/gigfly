@@ -1,0 +1,422 @@
+[2024-05-07 11:27:50] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-07 11:27:50] laravel.ERROR: syntax error, unexpected single-quoted string "disks", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected single-quoted string \"disks\", expecting \"]\" at /home/gigfly.in/public_html/config/filesystems.php:31)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#5 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#6 {main}
+"} 
+[2024-05-07 11:39:56] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-07 11:39:56] laravel.ERROR: syntax error, unexpected single-quoted string "disks", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected single-quoted string \"disks\", expecting \"]\" at /home/gigfly.in/public_html/config/filesystems.php:31)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#5 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#6 {main}
+"} 
+[2024-05-07 11:39:58] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-07 11:39:58] laravel.ERROR: syntax error, unexpected single-quoted string "disks", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected single-quoted string \"disks\", expecting \"]\" at /home/gigfly.in/public_html/config/filesystems.php:31)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#5 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#6 {main}
+"} 
+[2024-05-07 12:00:56] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-07 12:00:56] laravel.ERROR: syntax error, unexpected single-quoted string "disks", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected single-quoted string \"disks\", expecting \"]\" at /home/gigfly.in/public_html/config/filesystems.php:31)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#5 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#6 {main}
+"} 
+[2024-05-07 12:02:40] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-07 12:02:40] laravel.ERROR: syntax error, unexpected single-quoted string "disks", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected single-quoted string \"disks\", expecting \"]\" at /home/gigfly.in/public_html/config/filesystems.php:31)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#5 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#6 {main}
+"} 
+[2024-05-07 12:08:03] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-07 12:08:03] laravel.ERROR: syntax error, unexpected single-quoted string "disks", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected single-quoted string \"disks\", expecting \"]\" at /home/gigfly.in/public_html/config/filesystems.php:31)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#5 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#6 {main}
+"} 
+[2024-05-07 12:08:05] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-07 12:08:05] laravel.ERROR: syntax error, unexpected single-quoted string "disks", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected single-quoted string \"disks\", expecting \"]\" at /home/gigfly.in/public_html/config/filesystems.php:31)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#5 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#6 {main}
+"} 
+[2024-05-07 12:08:24] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-07 12:08:24] laravel.ERROR: syntax error, unexpected single-quoted string "disks", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected single-quoted string \"disks\", expecting \"]\" at /home/gigfly.in/public_html/config/filesystems.php:31)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#5 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#6 {main}
+"} 
+[2024-05-07 12:08:29] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-07 12:08:29] laravel.ERROR: syntax error, unexpected single-quoted string "disks", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected single-quoted string \"disks\", expecting \"]\" at /home/gigfly.in/public_html/config/filesystems.php:31)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#5 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#6 {main}
+"} 
+[2024-05-08 12:24:41] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-08 12:24:41] laravel.ERROR: syntax error, unexpected single-quoted string "disks", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected single-quoted string \"disks\", expecting \"]\" at /home/gigfly.in/public_html/config/filesystems.php:31)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#5 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#6 {main}
+"} 
+[2024-05-08 12:24:44] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-08 12:24:44] laravel.ERROR: syntax error, unexpected single-quoted string "disks", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected single-quoted string \"disks\", expecting \"]\" at /home/gigfly.in/public_html/config/filesystems.php:31)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#5 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#6 {main}
+"} 
+[2024-05-08 12:24:48] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-08 12:24:48] laravel.ERROR: syntax error, unexpected single-quoted string "disks", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected single-quoted string \"disks\", expecting \"]\" at /home/gigfly.in/public_html/config/filesystems.php:31)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#5 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#6 {main}
+"} 
+[2024-05-08 12:24:49] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-08 12:24:49] laravel.ERROR: syntax error, unexpected single-quoted string "disks", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected single-quoted string \"disks\", expecting \"]\" at /home/gigfly.in/public_html/config/filesystems.php:31)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#5 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#6 {main}
+"} 
+[2024-05-08 12:24:50] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-08 12:24:50] laravel.ERROR: syntax error, unexpected single-quoted string "disks", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected single-quoted string \"disks\", expecting \"]\" at /home/gigfly.in/public_html/config/filesystems.php:31)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#5 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#6 {main}
+"} 
+[2024-05-09 11:27:50] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-09 11:27:50] laravel.ERROR: syntax error, unexpected identifier "visibility", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected identifier \"visibility\", expecting \"]\" at /home/gigfly.in/public_html/config/filesystems.php:60)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#5 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#6 {main}
+"} 
+[2024-05-10 11:02:37] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-10 11:02:37] laravel.ERROR: Undefined constant "s3" {"exception":"[object] (Error(code: 0): Undefined constant \"s3\" at /home/gigfly.in/public_html/config/filesystems.php:4)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2024-05-10 11:02:39] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-10 11:02:39] laravel.ERROR: Undefined constant "s3" {"exception":"[object] (Error(code: 0): Undefined constant \"s3\" at /home/gigfly.in/public_html/config/filesystems.php:4)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2024-05-10 11:02:42] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-10 11:02:42] laravel.ERROR: Undefined constant "s3" {"exception":"[object] (Error(code: 0): Undefined constant \"s3\" at /home/gigfly.in/public_html/config/filesystems.php:4)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
+[2024-05-10 11:02:58] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(665): Illuminate\\Log\\LogManager->driver()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(497): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(146): Illuminate\\Foundation\\Http\\Kernel->reportException()
+#7 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#8 {main}
+"} 
+[2024-05-10 11:02:58] laravel.ERROR: Undefined constant "s3" {"exception":"[object] (Error(code: 0): Undefined constant \"s3\" at /home/gigfly.in/public_html/config/filesystems.php:4)
+[stacktrace]
+#0 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(70): require()
+#1 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#5 /home/gigfly.in/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#6 /home/gigfly.in/public_html/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
+#7 {main}
+"} 
